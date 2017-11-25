@@ -30,6 +30,8 @@
 		087E06791FBA225F0089EAC1 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 087E066A1FBA225F0089EAC1 /* 2.jpg */; };
 		087E067A1FBA225F0089EAC1 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 087E066B1FBA225F0089EAC1 /* 3.jpg */; };
 		087E067B1FBA225F0089EAC1 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 087E066C1FBA225F0089EAC1 /* 1.jpg */; };
+		08E58BC01FC9B06F00667D99 /* KanKanZjm.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 08E58BBE1FC9B06F00667D99 /* KanKanZjm.podspec */; };
+		08E58BC11FC9B06F00667D99 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 08E58BBF1FC9B06F00667D99 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +83,8 @@
 		087E066A1FBA225F0089EAC1 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
 		087E066B1FBA225F0089EAC1 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 		087E066C1FBA225F0089EAC1 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		08E58BBE1FC9B06F00667D99 /* KanKanZjm.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = KanKanZjm.podspec; sourceTree = SOURCE_ROOT; };
+		08E58BBF1FC9B06F00667D99 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +145,8 @@
 				087E06341FBA17970089EAC1 /* LaunchScreen.storyboard */,
 				087E06371FBA17970089EAC1 /* Info.plist */,
 				087E06381FBA17970089EAC1 /* main.m */,
+				08E58BBE1FC9B06F00667D99 /* KanKanZjm.podspec */,
+				08E58BBF1FC9B06F00667D99 /* LICENSE */,
 			);
 			path = "瞰看DEMO";
 			sourceTree = "<group>";
@@ -301,10 +307,12 @@
 				087E067A1FBA225F0089EAC1 /* 3.jpg in Resources */,
 				087E06791FBA225F0089EAC1 /* 2.jpg in Resources */,
 				087E06781FBA225F0089EAC1 /* 5.jpg in Resources */,
+				08E58BC01FC9B06F00667D99 /* KanKanZjm.podspec in Resources */,
 				087E06751FBA225F0089EAC1 /* 图层-1.png in Resources */,
 				087E06701FBA225F0089EAC1 /* 图层-4.png in Resources */,
 				087E06771FBA225F0089EAC1 /* 4.jpg in Resources */,
 				087E06311FBA17970089EAC1 /* Main.storyboard in Resources */,
+				08E58BC11FC9B06F00667D99 /* LICENSE in Resources */,
 				087E06731FBA225F0089EAC1 /* 图层-2.png in Resources */,
 				087E066E1FBA225F0089EAC1 /* 图层-10.png in Resources */,
 				087E067B1FBA225F0089EAC1 /* 1.jpg in Resources */,
